@@ -1,0 +1,32 @@
+h1 {
+    font-family: Impact;
+    font-weight:700 ;
+    font-size: 80px;
+    color: black;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:400 ;
+    font-size: 35px;
+    color: black;
+}
+.my-button{
+    width: 250px;
+    height: 70px;
+    border-top-color: #545454;
+    border-left-color: #545454;
+    background-color: blue;
+    color: white;
+    font-size: 13.33px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.my-button:hover{
+    background-color: green;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:400 ;
+    font-size: 35px;
+    color: black;
+}
